@@ -1,0 +1,28 @@
+.hello {
+    margin-left: 3cm;
+    margin-top: 4cm;
+    font-size: 14;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(214, 125, 17);
+}
+
+.user {
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.pp {
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b1 {
+    margin-left: 5cm;
+    border: none;
+    color: black;
+    font-size: 20px;
+    height: 1cm;
+    width: 2cm;
+}
